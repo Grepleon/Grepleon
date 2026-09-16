@@ -42,6 +42,14 @@
   Grepleon is my primary online pseudonym, which I use for my programming projects, games, experiments, and other work.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Grepleon&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
+
+<p align="center">
+  You can find out about many of my projects on my social media channels: Telegram and YouTube.
+</p>
+
 <div align="center">
   <a href="https://www.youtube.com/@Grepleon">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
