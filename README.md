@@ -46,15 +46,15 @@
   <a href="https://www.youtube.com/@Grepleon">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
          alt="YouTube">
-  </a>
+  </a>  &nbsp;
     <a href="https://t.me/GrepleonTg">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
          alt="Telegram">
-  </a>
+  </a>  &nbsp;
   <a href="https://github.com/Grepleon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub">
-  </a>
+  </a>  &nbsp;
   <a href="https://pypi.org/user/Grepleon">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"
          alt="PyPI">
