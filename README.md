@@ -4,6 +4,10 @@
 </p>
 
 <h1 align="center"> Grepleon / Programmer </h1>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/222017249?s=400&u=69c9ad4772c4b861091c65ad144bae0f16afbd0f&v=4" height="120" alt="Grepleon"  />
+  <img width="24" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
@@ -62,7 +66,11 @@
   <a href="https://github.com/Grepleon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub">
-  </a>  &nbsp;
+  </a> &nbsp;
+  <a href="https://codeforces.com/profile/Grepleon">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+         alt="codeforces">
+  </a> &nbsp;
   <a href="https://pypi.org/user/Grepleon">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"
          alt="PyPI">
