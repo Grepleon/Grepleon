@@ -1,5 +1,10 @@
 <h1 align="center"> Grepleon / Programmer </h1>
 
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.ru.md">Русский</a>
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
   <img width="12" />
