@@ -6,8 +6,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="java script logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+</div>
+<p align="center">
+  Grepleon is my primary online pseudonym, which I use for my programming projects, games, experiments, and other work.
+</p>
+<div align="center">
+  <a href="ссылка на YouTube">
+    <ing src="[https://www.youtube.com/@Grepleon](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)">
+  </a>
 </div>
