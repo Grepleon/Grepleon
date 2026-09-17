@@ -68,6 +68,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub">
   </a>  &nbsp;
+   <a href="https://codeforces.com/profile/Grepleon">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+         alt="codeforces">
+  </a> &nbsp;
   <a href="https://pypi.org/user/Grepleon">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"
          alt="PyPI">
