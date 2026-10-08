@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Grepleon&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Grepleon&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=001600&title_color=00e676&text_color=c9d1d9&icon_color=00e676&ring_color=00e676">
 </p>
 
 <p align="center">
