@@ -3,11 +3,6 @@
   <a href="README.ru.md">Русский</a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/Grepleon/Grepleon/blob/main/res/Grepleon%202026.08%20banner%20-zoom-cropped.png" height="1200" alt="Grepleon"  />
-  <img width="24" />
-</div>
-
 <h1 align="center"> Grepleon — Programmer </h1>
 <div align="center">
   <img src="https://github.com/Grepleon/Grepleon/blob/main/res/Grepleon%202026.08%20logo150.png" height="120" alt="Grepleon"  />
