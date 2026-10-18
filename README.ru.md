@@ -56,10 +56,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grepleon&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=001600&title_color=00e676&text_color=c9d1d9&icon_color=00e676&ring_color=00e676" alt="Grepleon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Grepleon&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=001500&title_color=00e676&text_color=c9d1d9&icon_color=00e676&ring_color=00e676" alt="Grepleon's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grepleon&layout=compact&hide_border=true&locale=ru&bg_color=001600&title_color=00e676&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grepleon&layout=compact&hide_border=true&locale=ru&bg_color=001500&title_color=00e676&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
