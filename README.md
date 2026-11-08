@@ -55,7 +55,7 @@
 </p>
 
 
-<p align="center"> [sorry, statistics are temporarily hidden...] </p>
+<p align="center"> [sorry, statistics are temporarily hidden...]. </p>
 
 <p align="center">
   You can find out about many of my projects on my social media channels: Telegram and YouTube.
