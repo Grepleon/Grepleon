@@ -39,6 +39,17 @@
   <img width="0" />
 </div>
 
+<h2 align="center"> The fourth avatar </h2>
+
+<p align="center">
+  In November 2026, I decided to remake my logo into a 3D version. However, this logo will only be used on GitHub (or similar sites).
+</p>
+
+<div align="center">
+  <img src="https://github.com/Grepleon/Grepleon/blob/main/res/Grepleon%202026.11%20-3Dversion%20-code.png" height="256" alt="Grepleon"  />
+  <img width="0" />
+</div>
+
 <h2 align="center"> Current version </h2>
 <p align="center">
   At the moment, the third option is used on most of my social media accounts. However, in places I use modified versions.
